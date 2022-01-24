@@ -1,0 +1,17 @@
+{
+  "name": "cors-server",
+  "version": "1.0.0",
+  "description": "nodejs \"cors anywhere\" server to bypass cors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cors"
+  ],
+  "author": "MansourM",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
